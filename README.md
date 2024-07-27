@@ -7,7 +7,7 @@ Welcome to the **JavaScript Projects Showcase**, your go-to collection for diver
 ### 🎯 Guess My Number!
 Put your guessing skills to the test with this addictive game! Guess a randomly generated number between 1 and 20, track your score, and aim to beat your high score. Features dynamic feedback and score tracking with a touch of fun! 🕵️‍♂️✨
 
-![Guess My Number!](https://giphy.com/embed/mLmgnWEsXVWq6IAgAs)
+![Guess My Number!](https://media.giphy.com/media/mLmgnWEsXVWq6IAgAs/giphy.gif)
 
 - **[Demo GIF](https://giphy.com/gifs/mLmgnWEsXVWq6IAgAs)**
 - **[Source Code](https://github.com/CodeWithShivram/Javascipt/tree/main/starter)**
