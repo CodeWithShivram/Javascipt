@@ -9,7 +9,6 @@ Put your guessing skills to the test with this addictive game! Guess a randomly 
 
 ![Guess My Number!](https://media.giphy.com/media/mLmgnWEsXVWq6IAgAs/giphy.gif)
 
-- **[Demo GIF](https://giphy.com/gifs/mLmgnWEsXVWq6IAgAs)**
 - **[Source Code](https://github.com/CodeWithShivram/Javascipt/tree/main/starter)**
 
 
