@@ -1,6 +1,6 @@
 # 🌟 JavaScript Projects Showcase 🚀
 
-Welcome to the **JavaScript Projects Showcase**, your go-to collection for diverse and interactive JavaScript projects! Whether you’re a beginner looking to explore the fundamentals or a seasoned developer seeking inspiration, you’ll find a variety of creative and engaging projects here.
+Welcome to the **JavaScript Projects Showcase**! This repository features a variety of interactive and engaging JavaScript projects designed to demonstrate a range of skills and techniques. Whether you're looking to explore JavaScript fundamentals or seeking inspiration for your own projects, you’re in the right place!
 
 ## 📁 Projects Included
 
@@ -17,6 +17,20 @@ Challenge your friends in this fun two-player game! Roll the dice and accumulate
 ![Pig Game](https://media.giphy.com/media/FsoYkqWerwCpbgwpZs/giphy.gif)
 
 - **[Source Code](https://github.com/CodeWithShivram/Javascipt/tree/main/Pig%20Game)**
+
+### 🏦 Bankist
+Dive into a minimalist and sleek banking app experience! Bankist allows you to manage transactions, transfer money, and see a summary of your account activities. A perfect project to demonstrate proficiency in modern JavaScript practices. 🏦✨
+
+![Bankist](https://media.giphy.com/media/fBY3EqgegugeYrfUre/giphy.gif)
+
+- **[Source Code](https://github.com/CodeWithShivram/Javascipt/tree/main/bankist)**
+
+### 🌍 Mapty
+Map your workouts and see them plotted on a map! Mapty is a workout tracking app that leverages the Leaflet library for mapping. Users can log running and cycling workouts, with details like distance, duration, and even elevation gain. 🚴‍♀️🏃‍♂️✨
+
+![Mapty](https://media.giphy.com/media/V95Zy8OWr5g43jUW8W/giphy.gif)
+
+- **[Source Code](https://github.com/CodeWithShivram/Javascipt/tree/main/Mapty)**
 
 ## 🚀 Features
 
@@ -35,7 +49,7 @@ Challenge your friends in this fun two-player game! Roll the dice and accumulate
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/YourUsername/JavaScript-Projects-Showcase.git
+    git clone https://github.com/CodeWithShivram/JavaScript-Projects-Showcase.git
     ```
 2. Navigate into the directory:
     ```bash
@@ -52,3 +66,4 @@ Stay tuned as more exciting projects are added to this collection. Happy coding!
 ## 📄 License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
