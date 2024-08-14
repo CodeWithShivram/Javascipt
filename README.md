@@ -11,6 +11,12 @@ Put your guessing skills to the test with this addictive game! Guess a randomly 
 
 - **[Source Code](https://github.com/CodeWithShivram/Javascipt/tree/main/starter)**
 
+### 🐷 Pig Game
+Challenge your friends in this fun two-player game! Roll the dice and accumulate points, but beware—rolling a 1 will reset your current score. Hold your points to add them to your total score. The first player to reach 100 points wins! 🎲✨
+
+![Pig Game](https://media.giphy.com/media/FsoYkqWerwCpbgwpZs/giphy.gif)
+
+- **[Source Code](https://github.com/CodeWithShivram/Javascipt/tree/main/Pig%20Game)**
 
 ## 🚀 Features
 
